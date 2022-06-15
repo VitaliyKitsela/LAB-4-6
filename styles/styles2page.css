@@ -1,0 +1,119 @@
+.sidebar2 {
+    margin-left: 40px;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    margin-right: 88px;
+    width: 1000px;
+    height: auto;
+    background: hsl(128, 61%, 38%);
+}
+.style4 {
+    margin-top: 47px;
+    margin-bottom: 0px;
+    margin-left: 40px;
+    width: 300px;
+    padding-right: 40px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 27px;
+    color: hwb(315 14% 34%);
+}
+
+.time{
+    font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	line-height: 24px;
+	color: #21de3d;
+}
+
+.time2{
+    font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	line-height: 24px;
+	color: #fb6d3a;
+}
+
+.rov{
+    font-style: normal;
+	font-weight: normal;
+    font-weight: bold;
+	font-size: 14px;
+	line-height: 24px;
+	color: #3acbfb;
+}
+
+.rov2{
+    font-style: normal;
+	font-weight: normal;
+    font-weight: bold;
+	font-size: 14px;
+	line-height: 24px;
+	color: #3aeefb;
+}
+.block{
+    margin-left: 35px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 15px;
+    color: #21de3d;
+}
+.delete{
+        margin-top: 0px;
+        margin-bottom: 0px;
+        margin-left: 0px;
+        
+        font-style: normal;
+        font-weight: bold;
+        font-size: 22px;
+        line-height: 27px;
+        color: #0e1af8;
+}
+.delete2 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 27px;
+    color: #fefa04;
+}
+.block2 {
+    margin-left: -5px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 15px;
+    color: #21de3d;
+}
+
+.jojo{
+
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    width: auto;
+    height: auto;
+    background-color: hsl(315, 66%, 29%);
+    border-radius: 5px;
+    color: #fff;
+    margin-bottom: 10px;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.5);
+}
+.block3 {
+    margin-left: 0px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 15px;
+    color: #fb6d3a;
+}
+
+.sode{
+    margin-left: 40px;
+}
